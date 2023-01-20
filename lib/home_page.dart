@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:screem_insta/publications.dart';
-
 import 'app_bar_insta.dart';
 import 'button_bar.dart';
 import 'list_view_story.dart';
